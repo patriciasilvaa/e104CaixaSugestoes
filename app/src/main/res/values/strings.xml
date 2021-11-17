@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">e104CaixaSugestoes</string>
+    
+    <string-array name="cursos">
+        <item>Desenvolvimento de Sistemas</item>
+        <item>Administração</item>
+        <item>Logística</item>
+        <item>Mecatrônica</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>Sugestão</item>
+        <item>Elogio</item>
+        <item>Comentário</item>
+        <item>Reclamação</item>
+    </string-array>
+</resources>
